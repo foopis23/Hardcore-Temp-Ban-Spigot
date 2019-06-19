@@ -1,0 +1,45 @@
+name: HardcoreBan
+version: ${project.version}
+main: net.dottsg.hardcoreban.HardcoreBan
+api-version: 1.13
+authors: [foopis23]
+description: Temporary Bans People In Hardcore
+website: www.dottsg.net
+commands:
+  restore:
+    description: Restores the health of a player by 1 incremeant
+    permission: hcb.command.restore
+    usage: /restore [<player>]
+  fullrestore:
+    description: Restores the health of a player to max
+    permission: hcb.command.fullrestore
+    usage: /fullrestore [<player>]
+  removeban:
+    description: Remove ban death ban for specific player
+    permission: hcb.command.removeban
+    usage: /removeban <player>
+  removehealth:
+    description: Removes the health of a player by 1 incremeant
+    permission: hcb.command.removehealth
+    usage: /removehealth [<player>]
+  givecoupon:
+    description: give life coupon to player
+    permission: hcb.command.create
+    usage: /givecoupon [<amount>] [<player>]
+
+permissions:
+  hcb.command.restore:
+    description: Allows Player to use /restore
+    default: op
+  hcb.command.fullrestore:
+    description: Allows Player to use /fullrestore
+    default: op
+  hcb.command.removeban:
+    description: Allows Player to use /removeban
+    default: op
+  hcb.command.removehealth:
+    description: Allows Player to use /removehealth
+    default: op
+  hcb.command.givecoupon:
+    description: Allows Player to use /givecoupon
+    default: op
