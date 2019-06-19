@@ -8,4 +8,4 @@ Commands | Permission Node | Description
 /fullrestore \[\<player\>\] | hcb.command.fullrestore | Restores Player's max health and current health to 20(10 hearts)
 /removeban \<player\> | hcb.command.removeban | Removes temporary ban from player
 /removehealth \[\<player\>\] | hcb.command.removehealth | Removes 5(2.5 hearts) max-health
-/givecoupon \[\<amount\>\] [<player>] | hcb.command.givecoupon | Gives Players an amount of life coupons
+/givecoupon \[\<amount\>\] \[\<player\>\] | hcb.command.givecoupon | Gives Players an amount of life coupons
