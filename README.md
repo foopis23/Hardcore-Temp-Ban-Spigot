@@ -12,4 +12,4 @@ Command | Permission Node | Description
 
 ## Recipes
 #### Life Coupon
-![Life Coupon IMG](http://imgur.com/k1NADAE)
+![Life Coupon IMG](https://i.ibb.co/Mkb21Gr/Screenshot-20190620-095757.jpg)
