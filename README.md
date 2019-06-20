@@ -9,3 +9,7 @@ Command | Permission Node | Description
 /removeban \<player\> | hcb.command.removeban | Removes temporary ban from player
 /removehealth \[\<player\>\] | hcb.command.removehealth | Removes 5(2.5 hearts) max-health
 /givecoupon \[\<amount\>\] \[\<player\>\] | hcb.command.givecoupon | Gives Players an amount of life coupons
+
+## Recipes
+#### Life Coupon
+![Life Coupon IMG](http://imgur.com/k1NADAE)
