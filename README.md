@@ -11,5 +11,5 @@ Command | Permission Node | Description
 /givecoupon \[\<amount\>\] \[\<player\>\] | hcb.command.givecoupon | Gives Players an amount of life coupons
 
 ## Recipes
-#### Life Coupon
+### Life Coupon
 ![Life Coupon IMG](https://i.ibb.co/Mkb21Gr/Screenshot-20190620-095757.jpg)
