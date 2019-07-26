@@ -20,10 +20,10 @@ public class Recipes
         item.setItemMeta(meta);
         NamespacedKey key = new NamespacedKey(plugin, "life_crystal");
         ShapedRecipe recipe = new ShapedRecipe(key, item);
-        recipe.shape("GGG", "GEG", "GDG");
+        recipe.shape("GGG", "GEG", "DDD");
         recipe.setIngredient('G', Material.GOLD_INGOT);
         recipe.setIngredient('E', Material.END_CRYSTAL);
-        recipe.setIngredient('D', Material.DIAMOND_BLOCK);
+        recipe.setIngredient('D', Material.DIAMOND);
         Bukkit.addRecipe(recipe);
     }
 }
