@@ -12,4 +12,4 @@ Command | Permission Node | Description
 
 ## Recipes
 ### Life Coupon
-![Life Coupon IMG](https://i.ibb.co/Mkb21Gr/Screenshot-20190620-095757.jpg)
+![image](https://user-images.githubusercontent.com/10903307/176816043-bf5989cd-ea50-4923-a55e-93085fd1fea8.png)
